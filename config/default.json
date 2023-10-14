@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://harismulic:harismulic@cluster0.n6ovdht.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
